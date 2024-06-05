@@ -18,4 +18,4 @@ Find the challenge [here](https://8weeksqlchallenge.com/case-study-1/):
 
 ## Solution
 
-Find my solution in the [sql script](https://): Sql script.sql
+Find my solution in the [sql script](https://github.com/JyotiVGupta/8-Week-SQL-Challenge-Case-Study-1/blob/main/Sql%20script.sql)
